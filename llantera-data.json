@@ -51,15 +51,32 @@
       "llantas_alin": null,
       "llantas_bal": null,
       "llantas_enll": null
+    },
+    {
+      "id": 1786666287886,
+      "placa": "PQT",
+      "factura": "072-141-00065847",
+      "marca": "CHERRY",
+      "color": "BLANCO",
+      "fecha": "2026-08-15",
+      "hora": "12:00",
+      "obs": "",
+      "alineacion": "no",
+      "balanceo": "no",
+      "enllantaje": "no",
+      "llantas_alin": null,
+      "llantas_bal": null,
+      "llantas_enll": null
     }
   ],
   "turnosState": {
     "2026-08-14_11:00": true,
     "2026-08-14_12:00": true,
-    "2026-08-15_10:00": true
+    "2026-08-15_10:00": true,
+    "2026-08-15_12:00": true
   },
   "rapidosState": [],
   "bibliotecaArchivos": [],
   "facturaMax": "2458756",
-  "actualizadoEn": "2026-08-14T00:09:24.149Z"
+  "actualizadoEn": "2026-08-14T00:11:30.397Z"
 }
