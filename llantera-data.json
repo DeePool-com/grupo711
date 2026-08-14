@@ -1,8 +1,65 @@
 {
-  "revisiones": [],
-  "turnosState": {},
+  "revisiones": [
+    {
+      "id": 1786665810641,
+      "nombre": "PAUL CHICAIZA",
+      "placa": "PDJ 4249",
+      "factura": "072-141-0002458755",
+      "marca": "KIA",
+      "color": "NEGRO",
+      "fecha": "2026-08-14",
+      "hora": "11:00",
+      "obs": "TOTAL",
+      "tel": "0972480888",
+      "alineacion": "si",
+      "balanceo": "si",
+      "enllantaje": "si",
+      "llantas_alin": null,
+      "llantas_bal": 4,
+      "llantas_enll": 4
+    },
+    {
+      "id": 1786665848920,
+      "nombre": "JORGE",
+      "placa": "ABD-4875",
+      "factura": "072-141-0002458756",
+      "marca": "Chevrolet",
+      "color": "ROJO",
+      "fecha": "2026-08-14",
+      "hora": "12:00",
+      "obs": "",
+      "tel": "08745897999",
+      "alineacion": "si",
+      "balanceo": "si",
+      "enllantaje": "si",
+      "llantas_alin": null,
+      "llantas_bal": 4,
+      "llantas_enll": 4
+    },
+    {
+      "id": 1786666160951,
+      "placa": "PCR",
+      "factura": "072-141-00065283",
+      "marca": "Toyota",
+      "color": "Negro",
+      "fecha": "2026-08-15",
+      "hora": "10:00",
+      "obs": "Total",
+      "alineacion": "no",
+      "balanceo": "no",
+      "enllantaje": "no",
+      "llantas_alin": null,
+      "llantas_bal": null,
+      "llantas_enll": null
+    }
+  ],
+  "turnosState": {
+    "2026-08-14_11:00": true,
+    "2026-08-14_12:00": true,
+    "2026-08-15_10:00": true
+  },
   "rapidosState": [],
   "bibliotecaArchivos": [],
-  "facturaMax": "0",
-  "actualizadoEn": "2026-08-14T00:08:08.049Z"
+  "facturaMax": "2458756",
+  "actualizadoEn": "2026-08-14T00:09:24.149Z"
 }
