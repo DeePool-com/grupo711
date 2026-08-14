@@ -33,16 +33,33 @@
       "llantas_bal": 4,
       "llantas_enll": 4,
       "completado": true
+    },
+    {
+      "id": 1786675126722,
+      "placa": "ALMUEZOS",
+      "factura": "JORGE CAIZA",
+      "marca": "CARLOS MAZA",
+      "color": "",
+      "fecha": "2026-08-14",
+      "hora": "13:00",
+      "obs": "",
+      "alineacion": "no",
+      "balanceo": "no",
+      "enllantaje": "no",
+      "llantas_alin": null,
+      "llantas_bal": null,
+      "llantas_enll": null,
+      "completado": true
     }
   ],
   "turnosState": {
     "2026-08-14_10:00": true,
     "2026-08-14_11:00": true,
-    "2026-08-14_13:00": false,
+    "2026-08-14_13:00": true,
     "2026-08-14_14:00": false
   },
   "rapidosState": [],
   "bibliotecaArchivos": [],
   "facturaMax": "0",
-  "actualizadoEn": "2026-08-14T02:38:18.422Z"
+  "actualizadoEn": "2026-08-14T02:39:24.356Z"
 }
