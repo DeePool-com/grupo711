@@ -1,8 +1,29 @@
 {
-  "revisiones": [],
-  "turnosState": {},
+  "revisiones": [
+    {
+      "id": 1786665810641,
+      "nombre": "PAUL CHICAIZA",
+      "placa": "PDJ 4249",
+      "factura": "072-141-0002458755",
+      "marca": "KIA",
+      "color": "NEGRO",
+      "fecha": "2026-08-14",
+      "hora": "11:00",
+      "obs": "TOTAL",
+      "tel": "0972480888",
+      "alineacion": "si",
+      "balanceo": "si",
+      "enllantaje": "si",
+      "llantas_alin": null,
+      "llantas_bal": 4,
+      "llantas_enll": 4
+    }
+  ],
+  "turnosState": {
+    "2026-08-14_11:00": true
+  },
   "rapidosState": [],
   "bibliotecaArchivos": [],
-  "facturaMax": "0",
-  "actualizadoEn": "2026-08-14T00:02:19.977Z"
+  "facturaMax": "2458755",
+  "actualizadoEn": "2026-08-14T00:03:33.600Z"
 }
