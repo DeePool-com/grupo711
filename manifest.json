@@ -1,0 +1,17 @@
+{
+  "name": "R-PIX-711 - Llantera Megamaxi 711",
+  "short_name": "R-PIX-711",
+  "description": "Sistema de control de Alineacion, Balanceo y Enllantaje - Llantera Megamaxi 711",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#eef5f4",
+  "theme_color": "#ec6645",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
