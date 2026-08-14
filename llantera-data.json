@@ -17,13 +17,32 @@
       "llantas_alin": null,
       "llantas_bal": 4,
       "llantas_enll": 4
+    },
+    {
+      "id": 1786665848920,
+      "nombre": "JORGE",
+      "placa": "ABD-4875",
+      "factura": "072-141-0002458756",
+      "marca": "Chevrolet",
+      "color": "ROJO",
+      "fecha": "2026-08-14",
+      "hora": "12:00",
+      "obs": "",
+      "tel": "08745897999",
+      "alineacion": "si",
+      "balanceo": "si",
+      "enllantaje": "si",
+      "llantas_alin": null,
+      "llantas_bal": 4,
+      "llantas_enll": 4
     }
   ],
   "turnosState": {
-    "2026-08-14_11:00": true
+    "2026-08-14_11:00": true,
+    "2026-08-14_12:00": true
   },
   "rapidosState": [],
   "bibliotecaArchivos": [],
-  "facturaMax": "2458755",
-  "actualizadoEn": "2026-08-14T00:03:33.600Z"
+  "facturaMax": "2458756",
+  "actualizadoEn": "2026-08-14T00:04:42.720Z"
 }
