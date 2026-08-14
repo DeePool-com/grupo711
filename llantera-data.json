@@ -1,5 +1,22 @@
 {
-  "revisiones": [],
+  "revisiones": [
+    {
+      "id": 1786666502744,
+      "placa": "PDJ 4249",
+      "factura": "072-141-00065847",
+      "marca": "CHERRY",
+      "color": "BLANCO",
+      "fecha": "2026-08-14",
+      "hora": "10:00",
+      "obs": "TOTAL",
+      "alineacion": "no",
+      "balanceo": "no",
+      "enllantaje": "no",
+      "llantas_alin": null,
+      "llantas_bal": null,
+      "llantas_enll": null
+    }
+  ],
   "turnosState": {
     "2026-08-14_11:00": false,
     "2026-08-14_12:00": false,
@@ -15,5 +32,5 @@
   "rapidosState": [],
   "bibliotecaArchivos": [],
   "facturaMax": "2458756",
-  "actualizadoEn": "2026-08-14T00:14:48.602Z"
+  "actualizadoEn": "2026-08-14T00:16:20.541Z"
 }
