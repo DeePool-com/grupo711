@@ -15,13 +15,49 @@
       "llantas_alin": null,
       "llantas_bal": 4,
       "llantas_enll": 4
+    },
+    {
+      "id": 1786670745599,
+      "placa": "PQT",
+      "factura": "072-141-000658",
+      "marca": "CHERRY",
+      "color": "NEGRO",
+      "fecha": "2026-08-14",
+      "hora": "11:00",
+      "obs": "TOTAL",
+      "alineacion": "si",
+      "balanceo": "si",
+      "enllantaje": "si",
+      "llantas_alin": null,
+      "llantas_bal": 4,
+      "llantas_enll": 4
+    },
+    {
+      "id": 1786670791251,
+      "nombre": "PAUL CHICAIZA",
+      "placa": "PDJ 4248",
+      "factura": "072-141-0000002586",
+      "marca": "Chevrolet",
+      "color": "ROJO",
+      "fecha": "2026-08-14",
+      "hora": "13:00",
+      "obs": "",
+      "tel": "09872480887",
+      "alineacion": "si",
+      "balanceo": "si",
+      "enllantaje": "si",
+      "llantas_alin": null,
+      "llantas_bal": 4,
+      "llantas_enll": 4
     }
   ],
   "turnosState": {
-    "2026-08-14_10:00": true
+    "2026-08-14_10:00": true,
+    "2026-08-14_11:00": true,
+    "2026-08-14_13:00": true
   },
   "rapidosState": [],
   "bibliotecaArchivos": [],
-  "facturaMax": "0",
-  "actualizadoEn": "2026-08-14T01:25:30.442Z"
+  "facturaMax": "2586",
+  "actualizadoEn": "2026-08-14T01:26:34.177Z"
 }
