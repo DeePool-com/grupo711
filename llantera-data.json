@@ -1,14 +1,14 @@
 {
   "revisiones": [
     {
-      "id": 1786671713329,
+      "id": 1786670727500,
       "placa": "PDJ 4249",
-      "factura": "072-141-000658",
+      "factura": "072-141-00065847",
       "marca": "CHERRY",
-      "color": "NEGRO",
+      "color": "BLANCO",
       "fecha": "2026-08-14",
-      "hora": "11:00",
-      "obs": "",
+      "hora": "10:00",
+      "obs": "TOTAL REVISION",
       "alineacion": "si",
       "balanceo": "si",
       "enllantaje": "si",
@@ -17,27 +17,29 @@
       "llantas_enll": 4
     },
     {
-      "id": 1786671723411,
-      "placa": "PDJ 4248",
-      "factura": "072-141-00065",
-      "marca": "CHERRY",
+      "id": 1786671117175,
+      "nombre": "PAUL CHICAIZA",
+      "placa": "PDJ 4249",
+      "factura": "072-141-0000258649",
+      "marca": "KIA",
       "color": "NEGRO",
       "fecha": "2026-08-14",
-      "hora": "13:00",
-      "obs": "",
-      "alineacion": "no",
-      "balanceo": "no",
+      "hora": "12:00",
+      "obs": "ALINEACION Y BALANCEOS DE LAS LLANTAS",
+      "tel": "0987248088",
+      "alineacion": "si",
+      "balanceo": "si",
       "enllantaje": "no",
       "llantas_alin": null,
-      "llantas_bal": null,
+      "llantas_bal": 4,
       "llantas_enll": null
     },
     {
-      "id": 1786671733976,
-      "placa": "PDJ 424",
-      "factura": "072-141-00065",
+      "id": 1786671780814,
+      "placa": "PQT",
+      "factura": "072-141-000658",
       "marca": "CHERRY",
-      "color": "NEGRO",
+      "color": "555",
       "fecha": "2026-08-14",
       "hora": "14:00",
       "obs": "",
@@ -50,12 +52,14 @@
     }
   ],
   "turnosState": {
-    "2026-08-14_11:00": true,
-    "2026-08-14_13:00": true,
+    "2026-08-14_10:00": true,
+    "2026-08-14_11:00": false,
+    "2026-08-14_13:00": false,
+    "2026-08-14_12:00": true,
     "2026-08-14_14:00": true
   },
   "rapidosState": [],
   "bibliotecaArchivos": [],
-  "facturaMax": "0",
-  "actualizadoEn": "2026-08-14T01:42:16.715Z"
+  "facturaMax": "258649",
+  "actualizadoEn": "2026-08-14T01:43:20.519Z"
 }
