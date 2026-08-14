@@ -38,11 +38,11 @@
   "turnosState": {
     "2026-08-14_10:00": true,
     "2026-08-14_11:00": true,
-    "2026-08-14_13:00": true,
-    "2026-08-14_14:00": true
+    "2026-08-14_13:00": false,
+    "2026-08-14_14:00": false
   },
   "rapidosState": [],
   "bibliotecaArchivos": [],
   "facturaMax": "0",
-  "actualizadoEn": "2026-08-14T02:35:33.195Z"
+  "actualizadoEn": "2026-08-14T02:37:12.995Z"
 }
