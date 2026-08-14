@@ -17,29 +17,32 @@
       "llantas_enll": 4
     },
     {
-      "id": 1786670745599,
-      "placa": "PQT",
-      "factura": "072-141-000658",
-      "marca": "CHERRY",
+      "id": 1786671117175,
+      "nombre": "PAUL CHICAIZA",
+      "placa": "PDJ 4249",
+      "factura": "072-141-0000258649",
+      "marca": "KIA",
       "color": "NEGRO",
       "fecha": "2026-08-14",
-      "hora": "11:00",
-      "obs": "TOTAL",
+      "hora": "12:00",
+      "obs": "ALINEACION Y BALANCEOS DE LAS LLANTAS",
+      "tel": "0987248088",
       "alineacion": "si",
       "balanceo": "si",
-      "enllantaje": "si",
+      "enllantaje": "no",
       "llantas_alin": null,
       "llantas_bal": 4,
-      "llantas_enll": 4
+      "llantas_enll": null
     }
   ],
   "turnosState": {
     "2026-08-14_10:00": true,
-    "2026-08-14_11:00": true,
-    "2026-08-14_13:00": false
+    "2026-08-14_11:00": false,
+    "2026-08-14_13:00": false,
+    "2026-08-14_12:00": true
   },
   "rapidosState": [],
   "bibliotecaArchivos": [],
-  "facturaMax": "2586",
-  "actualizadoEn": "2026-08-14T01:30:48.424Z"
+  "facturaMax": "258649",
+  "actualizadoEn": "2026-08-14T01:32:00.108Z"
 }
